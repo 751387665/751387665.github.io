@@ -33,3 +33,5 @@ The project focuses on transforming complex mass spectrometry data into structur
 ### Research Focus
 
 The project explores how computational methods and machine learning-related techniques can be applied to mass spectrometry data analysis, providing practical experience in scientific data processing and pattern recognition.
+
+The project explores how computational methods and machine learning-related techniques can be applied to mass spectrometry data analysis, providing practical experience in scientific data processing and pattern recognition.
