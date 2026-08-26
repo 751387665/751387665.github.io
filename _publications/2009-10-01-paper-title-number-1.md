@@ -1,14 +1,24 @@
----
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract
+
+This undergraduate thesis investigates feature transformation and recognition methods for mass spectrometry data using one-hot encoding and information entropy.
+
+The research involves mass spectrometry data preprocessing, feature transformation, feature extraction, similarity calculation, and pattern recognition. Python was used to implement the data processing and analytical workflows.
+
+## Supervisor
+
+Yong Li, Kunming University of Science and Technology
+
+## Research Work
+
+The main work included:
+
+- Preprocessing and organizing mass spectrometry data
+- Converting data features using one-hot encoding
+- Applying information entropy for feature analysis
+- Extracting and transforming relevant data features
+- Implementing different similarity calculation methods
+- Exploring pattern recognition approaches using Python
+
+## Keywords
+
+Mass Spectrometry · One-hot Encoding · Information Entropy · Feature Extraction · Pattern Recognition · Python
