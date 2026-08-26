@@ -31,8 +31,3 @@ Skills
 * Circuit Design: JLCEDA
 * Data Processing: Feature extraction, one-hot encoding, similarity analysis, pattern recognition
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-======
-* Currently signed in to 43 different slack teams
