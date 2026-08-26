@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Artificial Intelligence, Kunming University of Science and Technology
+  * Undergraduate background: Automation
+  * Major coursework: Machine Learning, Signals and Systems, Linear Algebra, Probability and Statistics, Modern Control Theory, Computer Networks, Microcomputer Principles and Interfaces
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* CAD Drafting Assistant, Hejin Pilot Testing Technology Service Co., Ltd.
+  * Assisted with preliminary research and proposal optimization for a relay protection renovation project.
+  * Participated in vector measurement and maintenance of metering circuits at a substation.
+  * Assisted with data collection, consolidation, and verification for a 10 kV power supply system preventive testing project at a wind farm.
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python, Qt, VC++
+* AI & Deep Learning: Stable Diffusion WebUI, RVC, TTS
+* AI Deployment: Local and cloud-based deployment of deep learning models
+* Hardware & Industrial Software: Keil5, Siemens TIA Portal V15, Factory I/O
+* Circuit Design: JLCEDA
+* Data Processing: Feature extraction, one-hot encoding, similarity analysis, pattern recognition
 
 Publications
 ======
