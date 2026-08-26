@@ -1,12 +1,3 @@
 main:
-  - title: "About"
+  - title: "TEST"
     url: /
-
-  - title: "Research"
-    url: /publications/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "CV"
-    url: /cv/
