@@ -59,14 +59,14 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [],
-  "presentations": [],
-  "teaching": [],
-  "portfolio": []
+  #"skills": [],
+  #"languages": [],
+  #"interests": [],
+  #"references": [],
+  #"publications": [],
+  #"presentations": [],
+  #"teaching": [],
+  #"portfolio": []
 }
     }
   ]
