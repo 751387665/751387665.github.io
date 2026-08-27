@@ -6,9 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
 Education
 ======
 * Artificial Intelligence, Kunming University of Science and Technology
